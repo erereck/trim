@@ -70,3 +70,7 @@ powershell -ExecutionPolicy Bypass -File install.ps1   # instala o build local
 | `setup/` | o instalador (embute o `Trim.exe`) |
 | `assets/` | ícone e manifesto |
 | `tools/MakeIcon.cs` | gera o ícone |
+
+## Licença
+
+[MIT](LICENSE). O ffmpeg não vem junto com o Trim; ele é um programa à parte, com a licença dele.
